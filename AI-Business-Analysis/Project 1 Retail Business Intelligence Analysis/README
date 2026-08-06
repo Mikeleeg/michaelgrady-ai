@@ -1,4 +1,3 @@
-Retail Business Intelligence Analysis
 Project Overview
 
 A simulated consulting engagement focused on helping a mid-sized retail company improve sales performance, supplier relationships, and customer satisfaction through AI-assisted business analysis.
@@ -27,3 +26,59 @@ Creating executive summaries
 Developing presentation materials
 Producing management recommendations
 Refining outputs through iterative prompting
+AI Workflow
+Step 1
+
+Reviewed retail sales, supplier, inventory, and customer rating data.
+
+↓
+
+Step 2
+
+Designed structured prompts to guide AI through data interpretation.
+
+↓
+
+Step 3
+
+Generated business insights from each dataset.
+
+↓
+
+Step 4
+
+Created executive summaries.
+
+↓
+
+Step 5
+
+Developed presentation-ready charts.
+
+↓
+
+Step 6
+
+Produced strategic recommendations for leadership.
+
+Tools Used
+ChatGPT
+Microsoft Excel
+PowerPoint
+Prompt Engineering
+Business Analysis
+Deliverables
+
+✔ Executive Summary
+
+✔ Business Report
+
+✔ PowerPoint Presentation
+
+✔ Product Performance Analysis
+
+✔ Supplier Analysis
+
+✔ Customer Rating Analysis
+
+✔ Executive Recommendations
