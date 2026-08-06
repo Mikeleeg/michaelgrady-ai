@@ -1,1 +1,29 @@
+Retail Business Intelligence Analysis
+Project Overview
 
+A simulated consulting engagement focused on helping a mid-sized retail company improve sales performance, supplier relationships, and customer satisfaction through AI-assisted business analysis.
+
+The objective was to transform raw operational data into executive-level insights and actionable business recommendations using Generative AI and structured prompting techniques.
+
+Business Problem
+
+The client identified three critical business challenges:
+
+Identify the highest and lowest performing product categories.
+Determine which suppliers contribute the greatest business value.
+Identify products receiving the lowest customer ratings to improve customer satisfaction.
+
+The goal was to provide leadership with data-driven recommendations that support strategic decision-making.
+
+My Role
+
+I designed an AI-assisted workflow that combined spreadsheet analysis with prompt engineering to produce executive-ready business deliverables.
+
+Responsibilities included:
+
+Designing structured prompts
+Performing business analysis
+Creating executive summaries
+Developing presentation materials
+Producing management recommendations
+Refining outputs through iterative prompting
